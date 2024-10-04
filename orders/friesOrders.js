@@ -1,6 +1,16 @@
 
 const friesOrders = {
-  name: "fries"
-};
+  message: "What kind of fries?",
+  choices: [
+    {
+      name: "Curly",
+      value: "curly"
+    },
+    {
+      name: "Nacho",
+      value: "nacho"
+    }
+  ]
+}
 
 export { friesOrders };

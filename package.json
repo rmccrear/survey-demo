@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "A project that asks you questions!",
   "dependencies": {
-    "@inquirer/prompts": "^6.0.1"
+    "@inquirer/prompts": "^6.0.1",
+    "cowsay": "^1.6.0"
   }
 }
